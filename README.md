@@ -21,8 +21,6 @@ Key Features
 
 🛡️ Robust Error Handling: Features complete input verification to prevent stack crashes and invalid runtime executions.
 
-🖥️ Cyberpunk ASCII Interface: Custom-engineered console viewport rendering.
-
 💾 Persistent Logging: Leverages the ios::app flag to securely append data without overriding existing blocks.
 
 Technical Specifications
@@ -49,4 +47,4 @@ Enter 1 to deploy the stress-test sequence, or 0 to safely terminate the process
 Warning: Monitor your storage capacity during execution. The program will continuously allocate disk blocks until manually aborted (Ctrl + C or closing the terminal window).
 
 Disclaimer
-This software is developed strictly for educational and benchmarking purposes. The developer (eshka6 / Neco Corp) is not responsible for any unexpected hardware wear or storage depletion caused by prolonged stress-testing.
+This software is developed strictly for educational and benchmarking purposes. The developer (eshka6) is not responsible for any unexpected hardware wear or storage depletion caused by prolonged stress-testing.
